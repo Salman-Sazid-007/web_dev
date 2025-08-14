@@ -1,0 +1,26 @@
+p{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333333;
+    line-height: 1.5;
+    background-color: rgb(98, 98, 118);
+}
+
+a {
+    background-color: aqua;
+}
+div {
+    background-color: rgba(57, 57, 128, 0.624);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+span {
+    color: #ff6347; /* Tomato color */
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 18px;
+    background-color: rgba(255, 255, 0, 0.5); /* Light yellow background */
+}
